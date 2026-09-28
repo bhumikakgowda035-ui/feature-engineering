@@ -1,0 +1,9 @@
+Dataset: Wine Quality - Red Wine
+Source: UCI Machine Learning Repository
+URL: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
+
+File format: CSV with semicolon (;) separator
+Task type: Regression
+Target: quality
+
+The notebook downloads the dataset directly from the source URL, so a separate CSV file is not required in this repository.
